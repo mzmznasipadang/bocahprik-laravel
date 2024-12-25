@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>BocilPrik Music | Home</title>
+  <title>BocahPrik Music | Home</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -38,10 +38,10 @@
 <body class="index-page">
   @include('layouts/navbar')
 
-  
+
   <footer id="footer" class="footer">
 
-    <div class="footer-newsletter">
+    <!-- <div class="footer-newsletter">
       <div class="container">
         <div class="row justify-content-center text-center">
           <div class="col-lg-6">
@@ -56,7 +56,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="container footer-top">
       <div class="row gy-4">
@@ -97,13 +97,13 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">BocilPrik Music</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">BocahPrik Music</strong> <span>All Rights Reserved</span></p>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you've purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="#">BocilPrik Music</a>
+        Designed by <a href="#">BocahPrik Music</a>
       </div>
     </div>
 

@@ -4,7 +4,7 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="{{ asset('bocilprik') }}/logo.png" alt="">
-        <h1 class="sitename">BocilPrik Music</h1>
+        <h1 class="sitename">BocahPrik Music</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
